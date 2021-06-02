@@ -3,6 +3,10 @@ h1{
     font-size: 86px;
 }
 
+h2{
+    color: blue;
+    font-size: 56px;
+}
 p{
     color: orange;
     font-size: 43px;
@@ -11,4 +15,9 @@ p{
 a{
     color: green;
     font-size: 29px;
+}
+
+li{
+    color:pink;
+    font-size: 39px;
 }
